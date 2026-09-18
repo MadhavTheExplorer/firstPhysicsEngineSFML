@@ -1,0 +1,12 @@
+title: SFML Verlet Physics Engine
+summary: An SFML 3 visualization of colored circles using Verlet integration, gravity, pairwise collision response, and circular confinement.
+status: archived
+kind: learning
+fields:
+  - physics-simulation
+  - computer-graphics
+  - cpp
+family: simulation-and-modeling
+featured: false
+started: 2025-03
+links: {}
